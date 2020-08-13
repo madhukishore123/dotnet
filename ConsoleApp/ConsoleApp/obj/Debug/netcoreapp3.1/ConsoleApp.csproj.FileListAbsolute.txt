@@ -1,0 +1,13 @@
+C:\Users\madhu\source\repos\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\madhu\source\repos\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\madhu\source\repos\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\madhu\source\repos\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\madhu\source\repos\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\madhu\source\repos\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\madhu\source\repos\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\madhu\source\repos\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\madhu\source\repos\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\madhu\source\repos\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\madhu\source\repos\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\madhu\source\repos\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\madhu\source\repos\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
